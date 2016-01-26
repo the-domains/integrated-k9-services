@@ -1,0 +1,28 @@
+name: Integrated K9 Services
+favicon: null
+layout_spectrum: 0.3672207687050104
+typography_spectrum: 0.3767697422299534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5421334230341017
+  lightness: 0.43769928137771785
+  saturation: 0.21336582768708467
+  rhythmicContrast: 0.9159742225892842
+purpose: []
